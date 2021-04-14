@@ -1,0 +1,11 @@
+.thaif{
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+  font-size: 38px;
+  font-weight: bolder;
+  vertical-align: top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

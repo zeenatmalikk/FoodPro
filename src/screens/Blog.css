@@ -1,0 +1,47 @@
+.featured{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FBAB28;
+}
+
+.new{
+    border: 1px solid #FBAB28;
+}
+
+.blogimg{
+    height: 250px;
+    
+    margin-left: 4%;
+}
+
+.blogcard{
+    width: 400px;
+}
+
+.blogfont{
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 7%;
+}
+.blogfontsub{
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    margin-left: 4%;
+}
+
+.blogsub{
+    height: 180px;
+    width: 260px;
+    margin-left: 14%;
+}
+
+.blogsub2{
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15%;
+}
+
+.blogsub:hover{
+    transform: scale(0.9);
+}

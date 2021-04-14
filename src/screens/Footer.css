@@ -1,0 +1,16 @@
+.imgpost {
+  height: 80px;
+  margin-top: 5%;
+}
+
+.postname {
+  font-size: 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.social {
+  height: 50px;
+
+  margin-inline: 7%;
+}

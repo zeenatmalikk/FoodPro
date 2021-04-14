@@ -1,0 +1,23 @@
+.streetf {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+  font-size: 38px;
+  font-weight: bolder;
+  vertical-align: top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #595959;
+  color: white;
+  height: 170px;
+}
+.recimg {
+  height: 200px;
+  margin-left: 7%;
+  margin-top: 8%;
+}
+
+.recimg:hover {
+  transform: scale(0.9);
+}

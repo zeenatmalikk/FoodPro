@@ -1,0 +1,23 @@
+.Cardstyle{
+   width: 100px;
+    height: 100px;
+}
+
+.cuisines{
+    width: 315px;
+    height: 200px;
+    margin-top: 5%;
+}
+
+.cuisines:hover{
+    transform: scale(0.9);
+}
+
+
+.namedish{
+    text-align: left;
+    font-size: 26px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+
+}
